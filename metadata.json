@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Salvage Car Centre",
+  "description": "A professional car salvage and wrecking platform where users can browse recent purchases, get instant AI-powered quotes, and sell their damaged vehicles easily.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
